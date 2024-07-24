@@ -4,7 +4,7 @@ FROM mcr.microsoft.com/windows/servercore:ltsc2022
 # Establece el directorio de trabajo
 WORKDIR /app
 
-# Copia los archivos de tu proyecto al contenedor
+# Copia los archivos del proyecto al contenedor
 COPY . .
 
 # Descarga e instala Python usando PowerShell
