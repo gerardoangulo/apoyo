@@ -1,5 +1,7 @@
 ## Hola! Bienvenido a la herramienta para el apoyo al diagnóstico en imágenes radiográficas de tórax
 
+# Consulte la estructura completa del sistema en el archivo 0 estructura.txt
+
 Deep Learning aplicado en el procesamiento de imágenes radiográficas de tórax en formato DICOM y JPG con el fin de sugerir tres diagnotiscos:
 
 1. Neumonía bacteriana
