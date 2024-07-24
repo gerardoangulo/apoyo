@@ -12,11 +12,15 @@ Aplicación de una técnica de explicación llamada Grad-CAM para resaltar con u
 
 Requerimientos necesarios para el funcionamiento:
 Instale Anaconda para Windows siguiendo las siguientes instrucciones: https://docs.anaconda.com/anaconda/install/windows/
+
 Abra Anaconda Prompt y ejecute las siguientes instrucciones:
 
 conda create -n tf tensorflow
+
 conda activate tf
+
 pip install -r requirements.txt
+
 python apoyo_diagnostico.py
 
 ## Descargue el modelo entrenado en:
@@ -88,6 +92,7 @@ Grad-CAM realiza el cálculo del gradiente de la salida correspondiente a la cla
 Para este repositorio hemos utilizado recursos de los siguientes repositorios
 
 https://github.com/isa-tr/neumonia-detector
+
 https://github.com/dalquinones/UAO-Neumonia
 
 Gracias a sus creadores
