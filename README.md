@@ -1,7 +1,7 @@
 # Hola! Bienvenido a la herramienta para el apoyo al diagnóstico en imágenes radiográficas de tórax
 Presentado por: Gerardo Angulo Cuentas
 
-Consulte la estructura completa del sistema en el archivo 0 estructura.txt
+### Consulte la estructura completa del sistema en el archivo 0 estructura.txt
 
 ## Objetivo general
 Deep Learning aplicado en el procesamiento de imágenes radiográficas de tórax en formato DICOM y JPG con el fin de sugerir tres diagnosticos:
