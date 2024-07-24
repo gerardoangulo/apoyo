@@ -11,6 +11,7 @@ Aplicación de una técnica de explicación llamada Grad-CAM para resaltar con u
 ## Uso de la herramienta:
 
 Requerimientos necesarios para el funcionamiento:
+
 Instale Anaconda para Windows siguiendo las siguientes instrucciones: https://docs.anaconda.com/anaconda/install/windows/
 
 Abra Anaconda Prompt y ejecute las siguientes instrucciones:
