@@ -19,6 +19,10 @@ conda activate tf
 pip install -r requirements.txt
 python apoyo_diagnostico.py
 
+## Descargue el modelo entrenado en:
+
+https://universidadmag-my.sharepoint.com/:u:/g/personal/gerardoangulo_unimagdalena_edu_co/EfrST24Jf-pHnnviH0UvjK0BV7LiWY9A-ruBQ0OtwTuBHg?e=syrsIP
+
 ## Uso de la Interfaz Gráfica:
 
 - Ingrese DNI (Documento de identidad) del paciente en la caja de texto
